@@ -1,1 +1,0 @@
-Highspeed training course title and link, and price scraping on 22_oct. Then data were stored to database.
